@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Bushfire is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://bushfire.com.au/
+Bushfire appears to be a company based in Australia that specializes in the design, sale, and installation of fire protection sprinkler systems for residential and commercial properties. Their services focus on protecting structures from bushfire threats by providing independent water supply solutions and robust sprinkler installations. No public API documentation, developer portal, or machine‑readable specifications were found on their website or elsewhere online.
+
+**Areas:** Company · FireProtection · SprinklerSystems · Australia · ResidentialSafety
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://bushfire.com.au/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/bushfire/](https://apis.io/providers/bushfire/).
